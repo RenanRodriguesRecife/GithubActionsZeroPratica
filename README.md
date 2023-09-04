@@ -1,7 +1,7 @@
 # GithubActionsZeroPratica
 
 Actions
-[] - instalar as dependências do projeto
+[x] - instalar as dependências do projeto
 [] - Encontrar código morto na aplicação
 [] - Rodar os teste
 

@@ -5,11 +5,12 @@
   "repository": "https://github.com/RenanRodriguesRecife/GithubActionsZeroPratica.git",
   "author": "Renan Rodrigues <renan_ime_2012@hotmail.com>",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/app.ts"
   },
   "devDependencies": {
     "ts-node-dev": "^2.0.0",
+    "ts-prune": "^0.10.3",
     "typescript": "^5.2.2"
   }
 }
