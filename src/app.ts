@@ -1,1 +1,3 @@
-console.log("olá")
+import test from "./unusedFunc"
+
+console.log(test())
