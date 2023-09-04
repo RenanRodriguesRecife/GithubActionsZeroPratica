@@ -1,4 +1,4 @@
-function text(){
+function test(){
     return "Ola";
 }
 
